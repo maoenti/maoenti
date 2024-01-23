@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Melvyn
-- 👀 I’m interested in Data Science and DevOps
-- 🏢 I’m currently an intern at Traveloka as Implementation Engineer.
+- 👀 I’m interested in Data Science, Machine Learning and DevOps
+- 🏢 Previously an Implementation Engineer Intern @Traveloka, Backend Developer @DoCheck.
 - 🏫 I'm a Computer Science student at Indonesia University of Education.
 
 <!---
